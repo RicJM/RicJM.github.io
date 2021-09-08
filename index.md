@@ -45,6 +45,9 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 ### Other Sites
 
 [Google Scholar](https://scholar.google.com/citations?user=hkriDdcAAAAJ&hl=es)
+
 [ORCID](https://orcid.org/0000-0001-8261-4409)
+
 [ResearcherID](https://publons.com/researcher/1441734/ricardo-marques/)
+
 [Scopus Author](https://www.scopus.com/authid/detail.uri?authorId=57026328500")
