@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 title: Ricardo Marques
 description: Ricardo Marques' personal webpage
-logo: 'img/Ricardo.jpg'
+logo: 'assets/img/Ricardo.jpg'
 
 #github_username:   RicJM
 #orcid_id:          0000-0001-8261-4409

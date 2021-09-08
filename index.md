@@ -23,13 +23,14 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 * (2016) R. Marques, C. Bouville, L. P. Santos, K. Bouatouch, "[Two-Level Adaptive Sampling for Illumination Integrals using Bayesian Monte Carlo](https://diglib.eg.org/bitstream/handle/10.2312/egsh20161016/065-068.pdf?sequence=1&isAllowed=y)", 37th Annual Conference of the European Association for Computer Graphics, Eurographics 2016 - Short Papers
 
-* (2016) Book Chapter - TO ADD
+* (2016) T. Bezerra Dutra, R. Marques, Julien Pettré, "[Vision Based Local Collision Avoidance](http://www.gameenginegems.net/geg3.php)", Game Engine Gems 3, 239–253 (book chapter)
 
-* (2015) Full Book - TO ADD
+* (2015) R. Marques, C. Bouville, L. P. Santos, K. Bouatouch, "[Efficient quadrature rules for illumination integrals: From quasi Monte Carlo to Bayesian Monte Carlo](https://www.morganclaypool.com/doi/abs/10.2200/S00649ED1V01Y201505CGR019)", Synthesis Lectures on Computer Graphics and Animation 7 (2), 1-92 (full book)
 
 * (2013) R. Marques, C. Bouville, M. Ribardière, L. P. Santos, K. Bouatouch, "[A Spherical Gaussian Framework for Bayesian Monte Carlo Rendering of Glossy Surfaces](https://doi.org/10.1109/tvcg.2013.79), IEEE Transactions on Visualization and Computer Graphics (Volume: 19, Issue: 10)
 
 * (2013) R. Marques, C. Bouville, M. Ribardière, L. P. Santos, K. Bouatouch, "[Spherical Fibonacci Point Sets for Illumination Integrals](https://doi.org/10.1111/cgf.12190)", Computer Graphics Forum (Volume: 32, Issue: 8)
+
 
 ### Other Sites
 
