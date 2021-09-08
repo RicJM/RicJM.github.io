@@ -5,7 +5,7 @@ title: Home
 
 # Short Bio
 
-To be done.
+I received my BSc degree in Informatics (2007) and MSc degree in Informatics (2009) from University of Minho, Portugal, after which I worked as a researcher in real-time global illumination in the same university. I joined INRIA (Institut National de Recherche en Informatique et Automatique, France) and the FRVSense team as a PhD student in the fall 2010 under the supervision of Professor Kadi Bouatouch. In my PhD thesis, I focused on spherical integration methods applied to light transport simulation. I defended my PhD thesis in the fall 2013 and joined the Mimetic INRIA research team as a research engineer in 2014, where I worked in the field of Crowd Simulation. From fall 2016 to summer 2020 I worked in the Interactive Technologies Group (GTI) of Universitat Pompeu Fabra (Barcelona) as a postdoc, first supported by a Marie Sklodowska-Curie individual fellowship on the topic of Bayesian Monte Carlo Rendering, and then as Professor Lector. In June 2020 I joined the Universitat de Barcelona as Professor Lector Serra Húnter (tenure track).
 
 # Publications 
 
