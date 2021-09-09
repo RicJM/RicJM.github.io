@@ -25,6 +25,8 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 (2020) **R. Marques**, C. Bouville, K. Bouatouch, "[Spectral Analysis of Quadrature Rules and Fourier Truncation-Based Methods Applied to Shading Integrals](https://doi.org/10.1109/tvcg.2019.2913418), IEEE Transactions on Visualization and Computer Graphics (Volume: 26, Issue: 10)
 
+![](assets/img/2020_TVCG_Spec.png)
+
 ---
 
 (2019) **R. Marques**, C. Bouville, K. Bouatouch, "[Optimal Sample Weights for Hemispherical Integral Quadratures](https://doi.org/10.1111/cgf.13392)", Computer Graphics Forum (Volume: 38, Issue: 1)
@@ -34,6 +36,9 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 ---
 
 (2017) T. Dutra, **R. Marques (joint first author)**, J. Cavalcante-Neto, C. Vidal, J. Pettré, "[Gradient‐based Steering for Vision‐based Crowd Simulation Algorithms](https://doi.org/10.1111/cgf.13130)", Computer Graphics Forum (Volume: 36, Issue: 2)
+
+![](assets/img/2017_EG_GBM.png)
+
 
 ---
 
