@@ -23,7 +23,7 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 ---
 
-**(2020)** *R. Marques*, C. Bouville, K. Bouatouch, "[Spectral Analysis of Quadrature Rules and Fourier Truncation-Based Methods Applied to Shading Integrals](https://doi.org/10.1109/tvcg.2019.2913418), IEEE Transactions on Visualization and Computer Graphics (Volume: 26, Issue: 10)
+**(2020)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Spectral Analysis of Quadrature Rules and Fourier Truncation-Based Methods Applied to Shading Integrals](https://doi.org/10.1109/tvcg.2019.2913418), IEEE Transactions on Visualization and Computer Graphics (Volume: 26, Issue: 10)
 
 ![](assets/img/2020_TVCG_Spec.png)
 
