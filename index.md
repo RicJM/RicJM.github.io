@@ -13,31 +13,31 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 **(2021)** B. Cabrero Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[A Perceptually-Validated Metric for Crowd Trajectory Quality Evaluation](https://arxiv.org/abs/2108.12346)", To appear in the 20th Symposium on Computer Animation
 
-![](assets/img/2021_SCA_Bea_Cut.png)
+<!-- ![](assets/img/2021_SCA_Bea_Cut.png) -->
 
 ---
 
 **(2021)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Extensible Spherical Fibonacci Grids](https://doi.org/10.1109/tvcg.2019.2952131)", IEEE Transactions on Visualization and Computer Graphics (Volume: 27, Issue: 4)
 
-![](assets/img/2021_TVCG_ESFG.png)
+<!-- ![](assets/img/2021_TVCG_ESFG.png) -->
 
 ---
 
 **(2020)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Spectral Analysis of Quadrature Rules and Fourier Truncation-Based Methods Applied to Shading Integrals](https://doi.org/10.1109/tvcg.2019.2913418), IEEE Transactions on Visualization and Computer Graphics (Volume: 26, Issue: 10)
 
-![](assets/img/2020_TVCG_Spec.png)
+<!-- ![](assets/img/2020_TVCG_Spec.png) -->
 
 ---
 
 **(2019)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Optimal Sample Weights for Hemispherical Integral Quadratures](https://doi.org/10.1111/cgf.13392)", Computer Graphics Forum (Volume: 38, Issue: 1)
 
-![](assets/img/2019_CGF_OSW.png)
+<!-- ![](assets/img/2019_CGF_OSW.png) -->
 
 ---
 
 **(2017)** T. Dutra, <ins>*R. Marques* (joint first author)</ins>, J. Cavalcante-Neto, C. Vidal, J. Pettré, "[Gradient‐based Steering for Vision‐based Crowd Simulation Algorithms](https://doi.org/10.1111/cgf.13130)", Computer Graphics Forum (Volume: 36, Issue: 2)
 
-![](assets/img/2017_EG_GBM.png)
+<!-- ![](assets/img/2017_EG_GBM.png) -->
 
 
 ---
@@ -70,7 +70,7 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 **(2013)** <ins>*R. Marques*</ins>, C. Bouville, M. Ribardière, L. P. Santos, K. Bouatouch, "[Spherical Fibonacci Point Sets for Illumination Integrals](https://doi.org/10.1111/cgf.12190)", Computer Graphics Forum (Volume: 32, Issue: 8)
 
-![](assets/img/2013_CGF_SF.png)
+<!-- ![](assets/img/2013_CGF_SF.png) -->
 
 ---
 
