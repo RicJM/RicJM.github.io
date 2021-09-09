@@ -11,19 +11,19 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 ---
 
-(2021) B. Cabrero Daniel, **R. Marques**, L. Hoyet, J. Pettré, J. Blat, "[A Perceptually-Validated Metric for Crowd Trajectory Quality Evaluation](https://arxiv.org/abs/2108.12346)", To appear in the 20th Symposium on Computer Animation
+**2021** B. Cabrero Daniel, *R. Marques*, L. Hoyet, J. Pettré, J. Blat, "[A Perceptually-Validated Metric for Crowd Trajectory Quality Evaluation](https://arxiv.org/abs/2108.12346)", To appear in the 20th Symposium on Computer Animation
 
 ![](assets/img/2021_SCA_Bea_Cut.png)
 
 ---
 
-(2021) **R. Marques**, C. Bouville, K. Bouatouch, "[Extensible Spherical Fibonacci Grids](https://doi.org/10.1109/tvcg.2019.2952131)", IEEE Transactions on Visualization and Computer Graphics (Volume: 27, Issue: 4)
+**(2021)** **R. Marques**, C. Bouville, K. Bouatouch, "[Extensible Spherical Fibonacci Grids](https://doi.org/10.1109/tvcg.2019.2952131)", IEEE Transactions on Visualization and Computer Graphics (Volume: 27, Issue: 4)
 
 ![](assets/img/2021_TVCG_ESFG.png)
 
 ---
 
-(2020) **R. Marques**, C. Bouville, K. Bouatouch, "[Spectral Analysis of Quadrature Rules and Fourier Truncation-Based Methods Applied to Shading Integrals](https://doi.org/10.1109/tvcg.2019.2913418), IEEE Transactions on Visualization and Computer Graphics (Volume: 26, Issue: 10)
+**(2020)** *R. Marques*, C. Bouville, K. Bouatouch, "[Spectral Analysis of Quadrature Rules and Fourier Truncation-Based Methods Applied to Shading Integrals](https://doi.org/10.1109/tvcg.2019.2913418), IEEE Transactions on Visualization and Computer Graphics (Volume: 26, Issue: 10)
 
 ![](assets/img/2020_TVCG_Spec.png)
 
@@ -55,6 +55,8 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 ---
 
 (2016) T. Bezerra Dutra, **R. Marques**, Julien Pettré, "[Vision Based Local Collision Avoidance](http://www.gameenginegems.net/geg3.php)", Game Engine Gems 3, 239–253 (book chapter)
+
+![](assets/img/2016_GE_GEMS.jpg)
 
 ---
 
