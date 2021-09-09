@@ -9,19 +9,15 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 # Publications 
 
----
-
 **(2021)** B. Cabrero Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[A Perceptually-Validated Metric for Crowd Trajectory Quality Evaluation](https://arxiv.org/abs/2108.12346)", To appear in the 20th Symposium on Computer Animation
 
 <!-- ![](assets/img/2021_SCA_Bea_Cut.png) -->
 
----
 
 **(2021)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Extensible Spherical Fibonacci Grids](https://doi.org/10.1109/tvcg.2019.2952131)", IEEE Transactions on Visualization and Computer Graphics (Volume: 27, Issue: 4)
 
 <!-- ![](assets/img/2021_TVCG_ESFG.png) -->
 
----
 
 **(2020)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Spectral Analysis of Quadrature Rules and Fourier Truncation-Based Methods Applied to Shading Integrals](https://doi.org/10.1109/tvcg.2019.2913418), IEEE Transactions on Visualization and Computer Graphics (Volume: 26, Issue: 10)
 
