@@ -44,13 +44,13 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 **(2017)** A. Bahrehmand, T. Batard, <ins>*R. Marques*</ins>, A. Evans, J. Blat, "[Optimizing layout using spatial quality metrics and user preferences](https://doi.org/10.1016/j.gmod.2017.08.003), Graphical Models (Volume: 93)
 
-![](assets/img/2017_GM_Arash.png)
+<!-- ![](assets/img/2017_GM_Arash.png) -->
 
 ---
 
 **(2016)** <ins>*R. Marques*</ins>, C. Bouville, L. P. Santos, K. Bouatouch, "[Two-Level Adaptive Sampling for Illumination Integrals using Bayesian Monte Carlo](https://diglib.eg.org/bitstream/handle/10.2312/egsh20161016/065-068.pdf?sequence=1&isAllowed=y)", 37th Annual Conference of the European Association for Computer Graphics, Eurographics 2016 - Short Papers, Lisbon, Portugal
 
-![](assets/img/2016_EG_2LBMC.png)
+<!-- ![](assets/img/2016_EG_2LBMC.png) -->
 
 ---
 
