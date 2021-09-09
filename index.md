@@ -29,6 +29,8 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 (2019) **R. Marques**, C. Bouville, K. Bouatouch, "[Optimal Sample Weights for Hemispherical Integral Quadratures](https://doi.org/10.1111/cgf.13392)", Computer Graphics Forum (Volume: 38, Issue: 1)
 
+![](assets/img/2019_CGF_OSW.png)
+
 ---
 
 (2017) T. Dutra, **R. Marques (joint first author)**, J. Cavalcante-Neto, C. Vidal, J. Pettré, "[Gradient‐based Steering for Vision‐based Crowd Simulation Algorithms](https://doi.org/10.1111/cgf.13130)", Computer Graphics Forum (Volume: 36, Issue: 2)
