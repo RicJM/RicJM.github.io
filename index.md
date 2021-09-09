@@ -17,6 +17,10 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 * (2021) **R. Marques**, C. Bouville, K. Bouatouch, "[Extensible Spherical Fibonacci Grids](https://doi.org/10.1109/tvcg.2019.2952131)", IEEE Transactions on Visualization and Computer Graphics (Volume: 27, Issue: 4)
 
+![](assets/img/2021_TVCG_ESFG.png)
+
+---
+
 * (2020) **R. Marques**, C. Bouville, K. Bouatouch, "[Spectral Analysis of Quadrature Rules and Fourier Truncation-Based Methods Applied to Shading Integrals](https://doi.org/10.1109/tvcg.2019.2913418), IEEE Transactions on Visualization and Computer Graphics (Volume: 26, Issue: 10)
 
 * (2019) **R. Marques**, C. Bouville, K. Bouatouch, "[Optimal Sample Weights for Hemispherical Integral Quadratures](https://doi.org/10.1111/cgf.13392)", Computer Graphics Forum (Volume: 38, Issue: 1)
