@@ -9,7 +9,7 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 # Publications 
 
-**(2022)** B. Cabrero-Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[Dynamic Combination of Crowd Steering Policies Based on Context](https://xxx)", Accepter to The 43rd Annual Conference of the European Assotiation for Computer Graphics (EUROGRAPHICS 2022)
+**(2022)** B. Cabrero-Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[Dynamic Combination of Crowd Steering Policies Based on Context](https://xxx)", Accepted to the 43rd Annual Conference of the European Assotiation for Computer Graphics (EUROGRAPHICS 2022)
 
 **(2022)** B. Nagarajan, <ins>*R. Marques*</ins>, M. Mejia, P. Radeva, "[Class-conditional Importance Weighting for Deep Learning with Noisy Labels](https://xxx)", To appear in the 17th International Conference on Computer Vision Theory and Applications (VISAP 2022)
 
