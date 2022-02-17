@@ -11,7 +11,8 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 **(2022)** B. Cabrero-Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[Dynamic Combination of Crowd Steering Policies Based on Context](https://xxx)", Accepted to the 43rd Annual Conference of the European Association for Computer Graphics (EUROGRAPHICS 2022)
 
-**(2022)** B. Nagarajan, <ins>*R. Marques*</ins>, M. Mejia, P. Radeva, "[Class-conditional Importance Weighting for Deep Learning with Noisy Labels](https://xxx)", To appear in the 17th International Conference on Computer Vision Theory and Applications (VISAP 2022)
+**(2022)** B. Nagarajan, <ins>*R. Marques*</ins>, M. Mejia, P. Radeva, "[Class-conditional Importance Weighting for Deep Learning with Noisy Labels](https://www.scitepress.org/PublicationsDetail.aspx?ID=TOdJng5g9OY=&t=1)", Proceedings of the 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP, ISBN 978-989-758-555-5, pages 679-686
+
 
 **(2021)** B. Cabrero-Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[A Perceptually-Validated Metric for Crowd Trajectory Quality Evaluation](https://arxiv.org/abs/2108.12346)", Proceedings of the 20th Symposium on Computer Animation (SCA 2021)
 
