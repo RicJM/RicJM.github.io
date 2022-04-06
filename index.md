@@ -9,7 +9,7 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 # Publications 
 
-**(2022)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Gaussian Process for Radiance Functions on the S<sup>2</sup> Sphere](https://xxx)", Computer Graphics Forum (to appear)
+**(2022)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Gaussian Process for Radiance Functions on the S<sup>2</sup> Sphere](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14501)", Computer Graphics Forum
 
 **(2022)** B. Cabrero-Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[Dynamic Combination of Crowd Steering Policies Based on Context](https://xxx)", Accepted to the 43rd Annual Conference of the European Association for Computer Graphics (EUROGRAPHICS 2022)
 
