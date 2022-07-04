@@ -32,7 +32,7 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 <!-- ![](assets/img/2019_CGF_OSW.png) -->
 
-**(2017)** T. Dutra, <ins>*R. Marques*</ins> (joint first author), J. Cavalcante-Neto, C. Vidal, J. Pettré, "[Gradient‐based Steering for Vision‐based Crowd Simulation Algorithms](https://doi.org/10.1111/cgf.13130)", 37th Annual Conference of the European Association for Computer Graphics (EUROGRAPHICS 2017), Computer Graphics Forum (Volume: 36, Issue: 2)
+**(2017)** T. Dutra, <ins>*R. Marques*</ins> (joint first author), J. Cavalcante-Neto, C. Vidal, J. Pettré, "[Gradient‐based Steering for Vision‐based Crowd Simulation Algorithms](https://doi.org/10.1111/cgf.13130)", 38th Annual Conference of the European Association for Computer Graphics (EUROGRAPHICS 2017), Computer Graphics Forum (Volume: 36, Issue: 2)
 
 <!-- ![](assets/img/2017_EG_GBM.png) -->
 
