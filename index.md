@@ -9,9 +9,9 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 # Publications 
 
-**(2022)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Gaussian Process for Radiance Functions on the S<sup>2</sup> Sphere](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14501)", Computer Graphics Forum
+**(2022)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Gaussian Process for Radiance Functions on the S<sup>2</sup> Sphere](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14501)", Computer Graphics Forum (to appear)
 
-**(2022)** B. Cabrero-Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[Dynamic Combination of Crowd Steering Policies Based on Context](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14469)", Accepted to the 43rd Annual Conference of the European Association for Computer Graphics (EUROGRAPHICS 2022)
+**(2022)** B. Cabrero-Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[Dynamic Combination of Crowd Steering Policies Based on Context](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14469)", 43rd Annual Conference of the European Association for Computer Graphics (EUROGRAPHICS 2022), Computer Graphics Forum (Volume: 41, Issue: 2)
 
 **(2022)** B. Nagarajan, <ins>*R. Marques*</ins>, M. Mejia, P. Radeva, "[Class-conditional Importance Weighting for Deep Learning with Noisy Labels](https://www.scitepress.org/PublicationsDetail.aspx?ID=TOdJng5g9OY=&t=1)", Proceedings of the 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP, ISBN 978-989-758-555-5, pages 679-686
 
