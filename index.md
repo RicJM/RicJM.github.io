@@ -44,6 +44,8 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 **(2019)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Optimal Sample Weights for Hemispherical Integral Quadratures](https://doi.org/10.1111/cgf.13392)", Computer Graphics Forum (Volume: 38, Issue: 1)
 
+* Presented at the *29th Eurographics Symposium on Rendering* ([EGSR 2018](https://cg.ivd.kit.edu/egsr18/)), Karlsruhe, Germany
+* Presented at the *XXX Congreso Español de Informática Gráfica* ([CEIG 2021](https://www.virvig.eu/ceig2021/)), Málaga, Spain
 
 <!-- ![](assets/img/2019_CGF_OSW.png) -->
 
