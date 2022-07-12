@@ -21,7 +21,10 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 * Presented at the *17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications* ([VISIGRAPP 2022](https://visigrapp.scitevents.org/)), Online Event
 
-**(2021)** B. Cabrero-Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[A Perceptually-Validated Metric for Crowd Trajectory Quality Evaluation](https://dl.acm.org/doi/10.1145/3480136)", The 20th Symposium on Computer Animation (SCA 2021), Proceedings of the ACM on Computer Graphics and Interactive Techniques (Volume 4, Issue 3)
+**(2021)** B. Cabrero-Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[A Perceptually-Validated Metric for Crowd Trajectory Quality Evaluation](https://dl.acm.org/doi/10.1145/3480136)", Proceedings of the ACM on Computer Graphics and Interactive Techniques (Volume 4, Issue 3)
+
+
+* Presented at the *The 20th Symposium on Computer Animation* ([SCA 2021](https://computeranimation.org/2021/)), Online Event
 
 <!-- ![](assets/img/2021_SCA_Bea_Cut.png) -->
 
