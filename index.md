@@ -13,7 +13,9 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 * Presented at the *33rd Eurographics Symposium on Rendering* ([EGSR 2022](https://egsr.eu/2022/)), Prague, Czech Republic 
 
-**(2022)** B. Cabrero-Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[Dynamic Combination of Crowd Steering Policies Based on Context](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14469)", 43rd Annual Conference of the European Association for Computer Graphics (EUROGRAPHICS 2022), Computer Graphics Forum (Volume: 41, Issue: 2)
+**(2022)** B. Cabrero-Daniel, <ins>*R. Marques*</ins>, L. Hoyet, J. Pettré, J. Blat, "[Dynamic Combination of Crowd Steering Policies Based on Context](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14469)", Computer Graphics Forum (Volume: 41, Issue: 2)
+
+* Presented at the *43rd Annual Conference of the European Association for Computer Graphics* ([EUROGRAPHICS 2022](https://eg2022.univ-reims.fr/)), Reims, France
 
 **(2022)** B. Nagarajan, <ins>*R. Marques*</ins>, M. Mejia, P. Radeva, "[Class-conditional Importance Weighting for Deep Learning with Noisy Labels](https://www.scitepress.org/PublicationsDetail.aspx?ID=TOdJng5g9OY=&t=1)", Proceedings of the 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP, ISBN 978-989-758-555-5, pages 679-686
 
