@@ -31,7 +31,7 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 **(2021)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Extensible Spherical Fibonacci Grids](https://doi.org/10.1109/tvcg.2019.2952131)", IEEE Transactions on Visualization and Computer Graphics (Volume: 27, Issue: 4)
 
 
-* Presented at the *28th and 29th Pacific Conference on Computer Graphics and Applications (Pacific Graphics 20+21)* ([PG20+21](https://www.pg2021.org/)), Wellington, New Zealand (online event)
+* Presented at the *28th and 29th Pacific Conference on Computer Graphics and Applications* ([PG20+21](https://www.pg2021.org/)), Wellington, New Zealand (online event)
 * Presented at the *XXXI Congreso Español de Informática Gráfica* ([CEIG 2022](https://mon.uvic.cat/ceig2022/)), Vic, Spain
 
 <!-- ![](assets/img/2021_TVCG_ESFG.png) -->
