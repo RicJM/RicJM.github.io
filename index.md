@@ -9,6 +9,10 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 # Publications 
 
+**(2022)** A. Colom, <ins>*R. Marques*</ins>, L. P. Santos, "[Interactive VPL-based Global Illumination on the GPU using Fuzzy Clustering](https://xxx)", 
+Computers & Graphics (to appear)
+* To be presented at the *International Conference on Graphics and Interaction* ([ICGI’2022](https://gpcg.pt/icgi2022/)), Aveiro, Portugal 
+
 **(2022)** <ins>*R. Marques*</ins>, C. Bouville, K. Bouatouch, "[Gaussian Process for Radiance Functions on the S<sup>2</sup> Sphere](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14501)", Computer Graphics Forum (to appear)
 
 * Presented at the *33rd Eurographics Symposium on Rendering* ([EGSR 2022](https://egsr.eu/2022/)), Prague, Czech Republic 
