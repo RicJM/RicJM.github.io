@@ -9,7 +9,7 @@ I received my BSc degree in Informatics (2007) and MSc degree in Informatics (20
 
 # Publications 
 
-**(2022)** A. Colom, <ins>*R. Marques*</ins>, L. P. Santos, "[Interactive VPL-based Global Illumination on the GPU using Fuzzy Clustering](https://xxx)", 
+**(2022)** A. Colom, <ins>*R. Marques*</ins>, L. P. Santos, "[Interactive VPL-based Global Illumination on the GPU using Fuzzy Clustering](https://www.sciencedirect.com/science/article/pii/S0097849322001753?via%3Dihub)", 
 Computers & Graphics (to appear)
 * To be presented at the *International Conference on Graphics and Interaction* ([ICGI’2022](https://gpcg.pt/icgi2022/)), Aveiro, Portugal 
 
